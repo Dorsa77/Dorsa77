@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Dorsa
 - 👀 I’m interested in Artificial intelligence and new things about technology 
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on python coding 
-- 📫 How to reach me , dorsa.saeedy02@gmial.com
+- 📫 How to reach me , dorsa.saeedy02@gmail.com
 
 <!---
 Dorsa77/Dorsa77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
